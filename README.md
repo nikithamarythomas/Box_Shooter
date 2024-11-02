@@ -1,10 +1,10 @@
 # Box Shooter Game 🎮
 
-Welcome to **Box Shooter**, a simple but thrilling shooter game built in Unity! 🚀
+Welcome to **Box Shooter**, a simple box shooter game built in Unity! 🚀
 
 ## 📜 About the Game
 
-In Box Shooter, you’ll face waves of boxy foes with different effects. Aim, shoot, and make it through challenging levels while racking up points and avoiding penalties.
+In Box Shooter, you’ll face waves of boxy foes with different effects. Aim, shoot, and make it through the level while racking up points and avoiding penalties.
 
 ## 🎮 Gameplay Features
 
@@ -13,7 +13,7 @@ In Box Shooter, you’ll face waves of boxy foes with different effects. Aim, sh
   - **Other Boxes**: No penalty—use this level to practice your aim!
 - **Level 2**:
   - **Green Boxes**: Earn points by shooting.
-  - **Other Boxes**: Deduct points if hit—watch out!
+  - **Other Boxes**: Deduct points if hit — watch out!
 
 ## 🛠️ Technologies Used
 

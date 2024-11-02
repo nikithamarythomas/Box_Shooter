@@ -46,9 +46,7 @@ To play the game:
 - **Level 1**: Earn points by hitting green boxes; other boxes are neutral.
 - **Level 2**: Earn points by hitting green boxes, but hitting other boxes will deduct points.
 
-## 🤝 Contributing
 
-Feel free to fork this project, submit issues, or make pull requests. Contributions to add new levels, refine gameplay, or introduce new features are always welcome!
 
 ## 📄 License
 
